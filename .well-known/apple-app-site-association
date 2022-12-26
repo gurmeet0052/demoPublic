@@ -1,0 +1,8 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+        { "appID": "1234567890.com.example.ios", "paths": ["/*"] }
+    ]
+  }
+}
