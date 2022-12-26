@@ -2,7 +2,13 @@
   "applinks": {
     "apps": [],
     "details": [
-        { "appID": "1234567890.com.example.ios", "paths": ["/*"] }
+      {
+        "appID": "532B4UH6R8.com.appinventiv.fastlaneDemo",
+        "paths": ["*"]
+      }
     ]
+  },
+  "appclips": {
+    "apps": ["532B4UH6R8.com.appinventiv.fastlaneDemo.Clip"]
   }
 }
