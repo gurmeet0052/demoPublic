@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "532B4UH6R8.com.appinventiv.fastlaneDemo",
+        "appID": "UGS54GW22C.com.appinventiv.fastlaneDemo",
         "paths": ["*"]
       }
     ]
   },
   "appclips": {
-    "apps": ["532B4UH6R8.com.appinventiv.fastlaneDemo.Clip"]
+    "apps": ["UGS54GW22C.com.appinventiv.fastlaneDemo.Clip"]
   }
 }
